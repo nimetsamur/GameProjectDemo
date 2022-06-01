@@ -12,11 +12,11 @@ namespace GameProjectDemo
             Gamer gamer1 = new Gamer()
             {
                 GamerId = 1,
-                NationalityId = 42394595472,
+                NationalityId = 12345678912,
                 GamerFirstName = "Nimet",
                 GamerLastName = "Samur",
                 UserName = "nimetsamur",
-                DateOfBirth = new DateTime(1994, 9, 30)
+                DateOfBirth = new DateTime(, , )
 
             };
             Gamer gamer2 = new Gamer()
@@ -26,7 +26,7 @@ namespace GameProjectDemo
                 GamerFirstName = "Semih",
                 GamerLastName = "Samur",
                 UserName = "semihsamur",
-                DateOfBirth = new DateTime(2005, 6, 10)
+                DateOfBirth = new DateTime(, , )
 
             };
 
